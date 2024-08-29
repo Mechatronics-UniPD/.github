@@ -46,6 +46,9 @@ Si consiglia di inviare frequenti commit per tenere traccia delle piccole modifi
 | -------------------------- | --------- |
 | [Beckhoff](https://github.com/Mechatronics-UniPD/Beckhoff) | File per l'utilizzo di Beckhoff in Matlab |
 | [DOI2Bibtex](https://github.com/Mechatronics-UniPD/DOI2Bibtex) | App per estrarre tante bibtex entries da Scopus usando solamente il DOI |
-| [MatlabACE](https://github.com/Mechatronics-UniPD/MatlabACE) | Comunicazione Matlab - ACE per il controllo di robot a 6 o 4 assi |
+| [Manim-PPTdaSezioni](https://github.com/Mechatronics-UniPD/Manim-PPTdaSezioni) | Se si ha un codice [manim](https://docs.manim.community/en/stable/index.html) composto da sezioni, è possibile crearne un PPT |
+| [Matlab-ACE](https://github.com/Mechatronics-UniPD/MatlabACE) | Comunicazione Matlab - ACE per il controllo di robot a 6 o 4 assi |
+| [Matlab-CreareVideodaSimulazione](https://github.com/Mechatronics-UniPD/Matlab-CreareVideodaSimulazione) | Codice per creare un video partendo da una simulazione Matlab (utile soprattutto per simulazione meccanismi e movimenti) |
+| [Matlab-Mouse3D](https://github.com/Mechatronics-UniPD/Matlab-Mouse3D) | Codice per utilizzare il mouse 3D [3Dconnexion Space Compact](https://3dconnexion.com/it/product/spacemouse-compact/)|
 | [Report-A_LaTeX_Template](https://github.com/Mechatronics-UniPD/Report-A_LaTeX_Template) | Una classe LaTeX per i report |
 | [Utilities](https://github.com/Mechatronics-UniPD/Utilities) | File vari utili: **bibtex2bibitem**, **clearPotente**, **DAQ_accelerometer_MONO**, **listaDependenciesFile**, **tgprintf**, **traj_pp** |
