@@ -20,3 +20,13 @@ Per prima cosa, è bene [leggere un tutorial](https://www.w3schools.com/git/defa
 
 Ogni persona che voglia contribuire deve creare un [nuovo branch](https://www.w3schools.com/git/git_branch_push_to_remote.asp?remote=github) e eseguire una `push` request.
 Dottorandi e personale controlleranno le modifiche e eseguiranno il merge sulla `master` branch.
+
+In maniera molto sintetica:
+1. `git clone URL` per clonare la repository. Se si sta già lavorando con quella repository, un `git pull origin` permette di aggiornare il codice da GitHub (nella stessa branch).
+2. `git checkout -b NOMEBRANCH` permette di creare e passare ad una nuova branch (se necessario)
+3. Eseguo modifiche al codice
+4. `git add -a` aggiunge tutte le modifiche al commit
+5. `git commit -m "MESSAGGIO"` crea il commit
+6. `git push origin NOMEBRANCH` invia la modifica a GitHub
+
+Si consiglia di inviare frequenti commit per tenere traccia delle piccole modifiche.
