@@ -1,4 +1,4 @@
-Le repository riportate qui sotto sono disponibi per l'utilizzo a personale, dottorandi, assegnisti e tesisti del gruppo di meccanica applicata.
+Le repository riportate qui sotto sono disponibili per l'utilizzo a personale, dottorandi, assegnisti e tesisti del gruppo di meccanica applicata.
 
 # Utilizzo delle repository senza modifica
 
