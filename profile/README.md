@@ -48,4 +48,4 @@ Si consiglia di inviare frequenti commit per tenere traccia delle piccole modifi
 | [DOI2Bibtex](https://github.com/Mechatronics-UniPD/DOI2Bibtex) | App per estrarre tante bibtex entries da Scopus usando solamente il DOI |
 | [MatlabACE](https://github.com/Mechatronics-UniPD/MatlabACE) | Comunicazione Matlab - ACE per il controllo di robot a 6 o 4 assi |
 | [Report-A_LaTeX_Template](https://github.com/Mechatronics-UniPD/Report-A_LaTeX_Template) | Una classe LaTeX per i report |
-| [Utilities](https://github.com/Mechatronics-UniPD/Utilities) | File vari utili: **bibtex2bibitem**, **clearPotente**, **listaDependenciesFile**, **tgprintf**, **traj_pp** |
+| [Utilities](https://github.com/Mechatronics-UniPD/Utilities) | File vari utili: **bibtex2bibitem**, **clearPotente**, **DAQ_accelerometer_MONO**, **listaDependenciesFile**, **tgprintf**, **traj_pp** |
