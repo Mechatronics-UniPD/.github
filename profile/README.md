@@ -47,6 +47,9 @@ Si consiglia di inviare frequenti commit per tenere traccia delle piccole modifi
 | Nome repository (con link) | Contenuto |
 | -------------------------- | --------- |
 | [Beckhoff](https://github.com/Mechatronics-UniPD/Beckhoff) | File per l'utilizzo di Beckhoff in Matlab |
+| [Classe-dis](https://github.com/Mechatronics-UniPD/Classe-dis) | Classe Matlab per il disegno di oggetti |
+| [Classe-STL](https://github.com/Mechatronics-UniPD/Classe-STL) | Classe Matlab per la gestione dei file STL (comprese sezioni) |
+| [Classe-trans](https://github.com/Mechatronics-UniPD/Classe-trans) | Classe Matlab per le trasformazioni di coordinate (compreso Denavit-Hartenberg) |
 | [DOI2Bibtex](https://github.com/Mechatronics-UniPD/DOI2Bibtex) | App per estrarre tante bibtex entries da Scopus usando solamente il DOI |
 | [Manim-PPTdaSezioni](https://github.com/Mechatronics-UniPD/Manim-PPTdaSezioni) | Se si ha un codice [manim](https://docs.manim.community/en/stable/index.html) composto da sezioni, è possibile crearne un PPT |
 | [Matlab-ACE](https://github.com/Mechatronics-UniPD/MatlabACE) | Comunicazione Matlab - ACE per il controllo di robot a 6 o 4 assi |
