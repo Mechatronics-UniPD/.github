@@ -48,6 +48,7 @@ Si consiglia di inviare frequenti commit per tenere traccia delle piccole modifi
 | -------------------------- | --------- |
 | [Beckhoff](https://github.com/Mechatronics-UniPD/Beckhoff) | File per l'utilizzo di Beckhoff in Matlab |
 | [Classe-dis](https://github.com/Mechatronics-UniPD/Classe-dis) | Classe Matlab per il disegno di oggetti |
+| [Classe-KINpro](https://github.com/Mechatronics-UniPD/Classe-KINpro) | Classe Matlab per la simulazione robot |
 | [Classe-STL](https://github.com/Mechatronics-UniPD/Classe-STL) | Classe Matlab per la gestione dei file STL (comprese sezioni) |
 | [Classe-trans](https://github.com/Mechatronics-UniPD/Classe-trans) | Classe Matlab per le trasformazioni di coordinate (compreso Denavit-Hartenberg) |
 | [DOI2Bibtex](https://github.com/Mechatronics-UniPD/DOI2Bibtex) | App per estrarre tante bibtex entries da Scopus usando solamente il DOI |
