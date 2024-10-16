@@ -25,6 +25,11 @@ sostituendo a `URL` il link copiato in precedenza.
 
 </details>
 
+Nel caso alcune classi dipendano da altre classi (es: KINpro contiene dis e trans) è necessario aggiungere due comandi dopo aver clonato la repository:
+1. `git submodule init`
+2. `git submodule update`
+In questo modo nella vostra cartella troverete anche le sottoclassi aggiornate.
+
 # Proporre modifiche ad una repository
 
 Per prima cosa, è bene [leggere un tutorial](https://www.w3schools.com/git/default.asp?remote=github) sull'utilizzo di Git e Github.
