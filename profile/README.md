@@ -48,6 +48,14 @@ In maniera molto sintetica:
 
 Si consiglia di inviare frequenti commit per tenere traccia delle piccole modifiche.
 
+# Aggiungere una repository
+
+È possibile aggiungere tutte le repository che potrebbero tornare utili agli altri.
+Si raccomanda di:
+- Impostare la repository come `privata` e di aggiungere tutto il team attraverso `Settings > Collaborators and teams > Add team > Mechatronics-UniPD/personale`
+- Compilare in maniera esaustiva il file README.md generato in ogni repository
+- Aggiungere la repository alla lista presente qui sotto
+
 # Sintesi delle repository attive
 
 | Nome repository (con link) | Contenuto |
