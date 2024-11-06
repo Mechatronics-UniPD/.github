@@ -65,6 +65,7 @@ Si raccomanda di:
 | [Classe-KINpro](https://github.com/Mechatronics-UniPD/Classe-KINpro) | Classe Matlab per la simulazione robot |
 | [Classe-STL](https://github.com/Mechatronics-UniPD/Classe-STL) | Classe Matlab per la gestione dei file STL (comprese sezioni) |
 | [Classe-trans](https://github.com/Mechatronics-UniPD/Classe-trans) | Classe Matlab per le trasformazioni di coordinate (compreso Denavit-Hartenberg) |
+| [Classe-TSP](https://github.com/Mechatronics-UniPD/Classe-TSP) | Classe Matlab che gestisce il Travelling Salesman Problem (TSP) |
 | [DOI2Bibtex](https://github.com/Mechatronics-UniPD/DOI2Bibtex) | App per estrarre tante bibtex entries da Scopus usando solamente il DOI |
 | [Manim-PPTdaSezioni](https://github.com/Mechatronics-UniPD/Manim-PPTdaSezioni) | Se si ha un codice [manim](https://docs.manim.community/en/stable/index.html) composto da sezioni, è possibile crearne un PPT |
 | [Matlab-ACE](https://github.com/Mechatronics-UniPD/MatlabACE) | Comunicazione Matlab - ACE per il controllo di robot a 6 o 4 assi |
