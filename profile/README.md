@@ -69,6 +69,7 @@ Si raccomanda di:
 | [DOI2Bibtex](https://github.com/Mechatronics-UniPD/DOI2Bibtex) | App per estrarre tante bibtex entries da Scopus usando solamente il DOI |
 | [Manim-PPTdaSezioni](https://github.com/Mechatronics-UniPD/Manim-PPTdaSezioni) | Se si ha un codice [manim](https://docs.manim.community/en/stable/index.html) composto da sezioni, è possibile crearne un PPT |
 | [Matlab-ACE](https://github.com/Mechatronics-UniPD/MatlabACE) | Comunicazione Matlab - ACE per il controllo di robot a 6 o 4 assi |
+| [Matlab-AppModesVisualization]([https://github.com/Mechatronics-UniPD/MatlabACE](https://github.com/Mechatronics-UniPD/Matlab-AppModesVisualization)) | App per visualizzare i modi esportati da ModalView |
 | [Matlab-AppSTL](https://github.com/Mechatronics-UniPD/Matlab-AppSTL) | App Matlab per la modifica degli STL |
 | [Matlab-CreareVideodaSimulazione](https://github.com/Mechatronics-UniPD/Matlab-CreareVideodaSimulazione) | Codice per creare un video partendo da una simulazione Matlab (utile soprattutto per simulazione meccanismi e movimenti) |
 | [Matlab-Mouse3D](https://github.com/Mechatronics-UniPD/Matlab-Mouse3D) | Codice per utilizzare il mouse 3D [3Dconnexion Space Compact](https://3dconnexion.com/it/product/spacemouse-compact/)|
