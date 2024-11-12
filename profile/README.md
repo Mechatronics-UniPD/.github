@@ -12,7 +12,9 @@ Questo approccio è valido per chiunque debba utilizzare il codice già pronto, 
 
 </details>
 
-In alternativa, è necessario installare Git sul proprio PC: basta aprire PowerShell e digitare il comando `winget install --id Git.Git -e --source winget`.
+
+
+In alternativa, è necessario installare Git sul proprio PC: basta aprire PowerShell e digitare il comando `winget install --id Git.Git -e --source winget`, oppure scaricare [GitHub Desktop](https://github.com/apps/desktop).
 
 Dopodiché basta di copiare il link presente all'interno della sezione `<>CODE`, aprire il terminale, portarsi nella cartella dove scaricare la repository ([qui come fare](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)) e digitare il comando `git clone URL`
 
