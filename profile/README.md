@@ -74,6 +74,7 @@ Si raccomanda di:
 | [Matlab-AppModesVisualization](https://github.com/Mechatronics-UniPD/Matlab-AppModesVisualization) | App per visualizzare i modi esportati da ModalView |
 | [Matlab-AppSTL](https://github.com/Mechatronics-UniPD/Matlab-AppSTL) | App Matlab per la modifica degli STL |
 | [Matlab-CreareVideodaSimulazione](https://github.com/Mechatronics-UniPD/Matlab-CreareVideodaSimulazione) | Codice per creare un video partendo da una simulazione Matlab (utile soprattutto per simulazione meccanismi e movimenti) |
+| [Matlab-ControllerXbox](https://github.com/Mechatronics-UniPD/Matlab-ControllerXbox) | Codice per utilizzare il controller Xbox per eseguire compiti in Matlab |
 | [Matlab-Mouse3D](https://github.com/Mechatronics-UniPD/Matlab-Mouse3D) | Codice per utilizzare il mouse 3D [3Dconnexion Space Compact](https://3dconnexion.com/it/product/spacemouse-compact/)|
 | [Report-A_LaTeX_Template](https://github.com/Mechatronics-UniPD/Report-A_LaTeX_Template) | Una classe LaTeX per i report |
 | [Utilities](https://github.com/Mechatronics-UniPD/Utilities) | File vari utili: **bibtex2bibitem**, **clearPotente**, **DAQ_accelerometer_MONO**, **listaDependenciesFile**, **tgprintf**, **traj_pp** |
